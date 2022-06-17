@@ -50,10 +50,12 @@ You can play it from this website = https://alierenkayhan.itch.io/the-virus
   1-Screenshots of TheVirus
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/menu.jpg" alt="TheVirus" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/story.jpg" alt="TheVirus" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/beginning.jpg" alt="TheVirus" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/monster.jpg" alt="TheVirus" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/menu.jpg" alt="TheVirus" width ="500" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/story.jpg" alt="TheVirus" width ="500" height = "300" /></p></td>
+    </tr>
+    <tr>
+        <td>  <img align="left" src="screenshots/beginning.jpg" alt="TheVirus" width ="500" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/monster.jpg" alt="TheVirus" width ="500" height = "300" /></p></td>
     </tr>
    </table>
 
