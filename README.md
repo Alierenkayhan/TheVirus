@@ -4,15 +4,16 @@
 
 <div align="center">
     
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/TheVirus?style=social)   
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/TheVirus)](https://img.shields.io/github/issues/Alierenkayhan/TheVirus)
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/TheVirus)](https://img.shields.io/github/forks/Alierenkayhan/TheVirus)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/TheVirus)](https://img.shields.io/github/stars/Alierenkayhan/TheVirus)
-[![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/TheVirus)](https://img.shields.io/github/license/Alierenkayhan/TheVirus)
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/TheVirus)](https://github.com/Alierenkayhan/TheVirus/blob/main/LICENSE)    
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/TheVirus/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/TheVirus)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/TheVirus)
-![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/TheVirus?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/TheVirus)
+ 
     
 </div>
 
