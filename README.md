@@ -16,7 +16,7 @@ You can play it from this website = https://alierenkayhan.itch.io/the-virus
 
 ## Table of Contents
 
-* [General Info](#CET-301)
+* [General Info](#TheVirus)
 * [Technologies Used](#Technologies)
 * [Prerequisites](#Prerequisites)
 * [Features](#Features)
