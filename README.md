@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/unity.jpg" alt="Alierenkayhan" width ="1100" height = "400" /></p>
+<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/unity.jpg" alt="Alierenkayhan" width ="100%" height = "auto"/></p>
     
 # TheVirus
 
@@ -51,12 +51,12 @@ You can play it from this website = https://alierenkayhan.itch.io/the-virus
   1-Screenshots of TheVirus
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/menu.jpg" alt="TheVirus" width ="500" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/story.jpg" alt="TheVirus" width ="500" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/menu.jpg" alt="TheVirus" width ="100%" height = "auto"/></p></td>
+        <td>  <img align="left" src="screenshots/story.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
     </tr>
     <tr>
-        <td>  <img align="left" src="screenshots/beginning.jpg" alt="TheVirus" width ="500" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/monster.jpg" alt="TheVirus" width ="500" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/beginning.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/monster.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
