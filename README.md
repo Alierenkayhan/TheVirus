@@ -4,15 +4,31 @@
 
 <div align="center">
     
+  
 ![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/TheVirus?style=social)   
+![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/TheVirus?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/TheVirus?style=social)
+ 
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/TheVirus)](https://github.com/Alierenkayhan/TheVirus/blob/main/LICENSE)    
+ 
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/TheVirus)](https://img.shields.io/github/issues/Alierenkayhan/TheVirus)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/TheVirus)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/TheVirus)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/TheVirus) 
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/TheVirus)](https://img.shields.io/github/forks/Alierenkayhan/TheVirus)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/TheVirus)](https://img.shields.io/github/stars/Alierenkayhan/TheVirus)
-[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/TheVirus)](https://github.com/Alierenkayhan/TheVirus/blob/main/LICENSE)    
-![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/TheVirus/total)
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/TheVirus/goto)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/TheVirus)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/TheVirus)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/TheVirus)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/TheVirus)
+![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/TheVirus) 
+
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/TheVirus/total)
+ <a href="https://github.com/Alierenkayhan/TheVirus/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/Download-Project-blue" /></a>
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2Fthe-virus) 
  
     
 </div>
