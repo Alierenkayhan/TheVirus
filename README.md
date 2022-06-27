@@ -28,7 +28,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/TheVirus/total)
  <a href="https://github.com/Alierenkayhan/TheVirus/archive/refs/heads/main.zip">
 <img src="https://img.shields.io/badge/Download-Project-blue" /></a>
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2Fthe-virus) 
+<a href="https://alierenkayhan.itch.io/the-virus">![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Falierenkayhan.itch.io%2Fthe-virus) </a>
  
     
 </div>
