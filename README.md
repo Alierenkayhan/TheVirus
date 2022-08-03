@@ -33,14 +33,11 @@
     
 </div>
 
-
-This is my first demo game. I have made the game by using Unity. I have planned to develop it as soon as I have time because I am a university student and I don't have so much time.
-
-You can play it from this website = https://alierenkayhan.itch.io/the-virus
+- Develop a 3D horror game in Unity
+- Solo game developer
+- Published on itch.io
+- You can play it from this website = https://alierenkayhan.itch.io/the-virus
  
- 
-
-
 ## Table of Contents
 
 * [General Info](#TheVirus)
