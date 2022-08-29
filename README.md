@@ -32,11 +32,13 @@
  
     
 </div>
+<img align="left" src="screenshots/the virus demo 02 itch io ss/The Virus.png" alt="TheVirus" width ="100%" height = "auto" />
 
 - Develop a 3D horror game in Unity
 - Solo game developer
 - Published on itch.io
 - You can play it from this website = https://alierenkayhan.itch.io/the-virus
+- <a href="https://www.youtube.com/watch?v=yDvptDXH0Ug&t=1s"> The Virus Demo 0.2 – Offical trailer </a>
  
 ## Table of Contents
 
@@ -62,7 +64,7 @@
     - Horror game <br/>
    
 ## Screenshots
-  1-Screenshots of TheVirus
+  1-Screenshots of TheVirus demo version 0.1
   <table> 
     <tr>
         <td>  <img align="left" src="screenshots/menu.jpg" alt="TheVirus" width ="100%" height = "auto"/></p></td>
@@ -71,6 +73,18 @@
     <tr>
         <td>  <img align="left" src="screenshots/beginning.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
         <td>  <img align="left" src="screenshots/monster.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
+    </tr>
+   </table>
+   
+  2-Screenshots of TheVirus demo version 0.2
+  <table> 
+    <tr>
+        <td>  <img align="left" src="screenshots/the virus demo 02 itch io ss/Ali Eren Kayhan TheVirus02demo ss 2.jpg" alt="TheVirus" width ="100%" height = "auto"/></p></td>
+        <td>  <img align="left" src="screenshots/the virus demo 02 itch io ss/Ali Eren Kayhan TheVirus02demo ss 3.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
+    </tr>
+    <tr>
+        <td>  <img align="left" src="screenshots/the virus demo 02 itch io ss/Ali Eren Kayhan TheVirus02demo ss 1.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/the virus demo 02 itch io ss/Ali Eren Kayhan TheVirus02demo ss 4.jpg" alt="TheVirus" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
